@@ -1,4 +1,4 @@
-# Double-Pointer-for-Mouse
+# Double-Pointer-for-Computer-Mouse
 Project in assembly to use 2 mouses.
 
 
